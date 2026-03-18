@@ -61,6 +61,6 @@ Add real screenshots of the running product to the `screenshots/` folder:
 **Codebase price: $1900**
 
 Contact:
-- Telegram: [YOUR_TELEGRAM]
-- Email: [YOUR_EMAIL]
-- X/Twitter: [YOUR_X]
+- Telegram: @TOPUA829
+- Email: Loki2022hak@gmail.com
+- X/Twitter: @Grim5225
