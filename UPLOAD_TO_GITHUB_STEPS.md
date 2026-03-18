@@ -1,0 +1,10 @@
+# Upload to GitHub
+
+```bash
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/aurixa-crypto-saas.git
+git push -u origin main
+```
